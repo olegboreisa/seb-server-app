@@ -1,0 +1,10 @@
+[
+  {"id": -1, "name":"Golden","product":"CARD","validFrom":18,"student":false,"income":"HIGH"},
+  {"id": -1, "name":"Current Plus","product":"ACCOUNT","validFrom":18,"student":false,"income":"HIGH"},
+  {"id": -1, "name":"Credit","product":"CARD","validFrom":18,"student":false,"income":"MEDIUM"},
+  {"id": -1, "name":"Debit","product":"CARD","validFrom":18,"student":false,"income":"LOW"},
+  {"id": -1, "name":"Current","product":"ACCOUNT","validFrom":18,"student":false,"income":"LOW"},
+  {"id": -1, "name":"Junior Saver","product":"ACCOUNT","validFrom":0,"student":false,"income":"ZERO"},
+  {"id": -1, "name":"Student","product":"ACCOUNT","validFrom":18,"student":true,"income":"ZERO"},
+  {"id": -1, "name":"Senior","product":"ACCOUNT","validFrom":65,"student":false,"income":"ZERO"}
+]

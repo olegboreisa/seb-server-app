@@ -11,9 +11,7 @@ _Before running the code, make sure you have the following:_
 
 _Follow the steps below to set up and run the project:_
 
-1. **Download Server Side Zip File**.
-
-   GIT
+1. **Download Server Side Zip File**. https://github.com/olegboreisa/seb-server-app
 
 2. **Make sure you have JRE (Java Runtime Environment Corretto Version 11.0.16) installed**.
 3. **Open the terminal and navigate to the project's directory**.

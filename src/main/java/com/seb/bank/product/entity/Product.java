@@ -22,7 +22,7 @@ public class Product {
     private ProductType product;
 
     @Column(nullable = false)
-    private int validFrom;
+    private byte validFrom;
 
     @Column(nullable = false)
     private boolean student;
@@ -65,11 +65,11 @@ public class Product {
         this.product = product;
     }
 
-    public int getValidFrom() {
+    public byte getValidFrom() {
         return validFrom;
     }
 
-    public void setValidFrom(int validFrom) {
+    public void setValidFrom(byte validFrom) {
         this.validFrom = validFrom;
     }
 

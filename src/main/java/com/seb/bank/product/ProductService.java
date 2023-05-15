@@ -95,7 +95,6 @@ public class ProductService {
 
     private void update(ProductForm form) {
         Product product = productRepository.getOne(form.getId());
-
         product.setName(form.getName());
         product.setProduct(form.getProduct());
         product.setValidFrom(form.getValidFrom());

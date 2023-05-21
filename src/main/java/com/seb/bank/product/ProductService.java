@@ -1,8 +1,15 @@
 package com.seb.bank.product;
 
 import com.seb.bank.product.entity.Product;
-import com.seb.bank.product.model.*;
-import com.seb.bank.product.model.accounts.*;
+import com.seb.bank.product.model.IProduct;
+import com.seb.bank.product.model.IncomeForm;
+import com.seb.bank.product.model.ProductData;
+import com.seb.bank.product.model.ProductForm;
+import com.seb.bank.product.model.accounts.CurrentAccount;
+import com.seb.bank.product.model.accounts.CurrentAccountPlus;
+import com.seb.bank.product.model.accounts.JuniorAccount;
+import com.seb.bank.product.model.accounts.SeniorAccount;
+import com.seb.bank.product.model.accounts.StudentAccount;
 import com.seb.bank.product.model.cards.CreditCard;
 import com.seb.bank.product.model.cards.DebitCard;
 import com.seb.bank.product.model.cards.GoldenCard;
